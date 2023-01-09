@@ -1,3 +1,3 @@
 module github.com/teste-unico
 
-go 1.19
+go 1.18
